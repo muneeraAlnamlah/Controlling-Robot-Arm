@@ -1,4 +1,5 @@
 Controlling Robot Arm:
+
 sudo apt-get install ros-noetic-catkin
 
 mkdir -p ~/catkin_ws/src
@@ -29,7 +30,7 @@ sudo nano ~/.bashrc
 at the end of the (bashrc) file add the follwing line 
 but change it to you name
  
-source /home/njoudalnamlah/catkin_ws/devel/setup.bash
+source /home/Muneeraalnamlah/catkin_ws/devel/setup.bash
  
 source ~/.bashrc
  
